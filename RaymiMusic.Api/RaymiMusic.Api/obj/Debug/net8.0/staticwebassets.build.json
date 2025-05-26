@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f2KrYQyoTHB+MXAlu3LAQotxdO20w6Xz2i+t/nuAqeQ=",
+  "Source": "RaymiMusic.Api",
+  "BasePath": "_content/RaymiMusic.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

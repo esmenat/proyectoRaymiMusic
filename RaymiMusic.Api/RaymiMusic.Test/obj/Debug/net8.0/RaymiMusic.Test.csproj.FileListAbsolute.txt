@@ -1,0 +1,15 @@
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\bin\Debug\net8.0\RaymiMusic.Test.exe
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\bin\Debug\net8.0\RaymiMusic.Test.deps.json
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\bin\Debug\net8.0\RaymiMusic.Test.runtimeconfig.json
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\bin\Debug\net8.0\RaymiMusic.Test.dll
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\bin\Debug\net8.0\RaymiMusic.Test.pdb
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\RaymiMusic.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\RaymiMusic.Test.AssemblyInfoInputs.cache
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\RaymiMusic.Test.AssemblyInfo.cs
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\RaymiMusic.Test.csproj.CoreCompileInputs.cache
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\RaymiMusic.Test.sourcelink.json
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\RaymiMusic.Test.dll
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\refint\RaymiMusic.Test.dll
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\RaymiMusic.Test.pdb
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\RaymiMusic.Test.genruntimeconfig.cache
+C:\Users\STEVE\Desktop\RaymiMusicApiHerramientas\RaymiMusic.Api\RaymiMusic.Test\obj\Debug\net8.0\ref\RaymiMusic.Test.dll
